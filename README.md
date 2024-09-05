@@ -36,7 +36,7 @@ This app contains 6 main screens designed to offer a smooth shopping experience.
    ```bash
    git clone https://github.com/NiharVineo/ecom_app.git
 
-2. extract the ecom_app.zip
+2. extract the ecom_app.zip and then
    ```bash
    cd ecom_app
 3. run these commands in the terminal
